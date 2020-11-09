@@ -28,7 +28,7 @@ namespace Prueba2
             Console.ReadKey();
         }
 
-         public static funcionSuma(int a, int b)
+         public static int funcionSuma(int a, int b)
         {
             return (a + b); 
         }
