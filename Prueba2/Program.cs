@@ -24,6 +24,7 @@ namespace Prueba2
 
             Console.WriteLine("Probando la funcion");
             Console.WriteLine("Resultado de la suma de 10 + 20 es {0}", funcionSuma(10, 20);
+            Console.WriteLine("Fin del programa");
 
             Console.ReadKey();
         }
